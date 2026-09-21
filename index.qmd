@@ -1,0 +1,84 @@
+---
+title: "Sadichchha Shrestha"
+---
+
+<div class="home-container">
+
+<div class="profile-section">
+
+<div class="profile-text">
+
+# Sadichchha Shrestha
+
+**PhD Candidate in Economics**  
+University of Hawaiʻi at Mānoa
+
+Development Economics · Urban Economics · Environment Economics
+
+[Curriculum Vitae](files/Sadichchha_Shrestha_CV.pdf){.btn-main}
+
+[Google Scholar](https://scholar.google.com/) ·
+[GitHub](https://github.com/janedoe) ·
+[LinkedIn](https://www.linkedin.com/)
+
+</div>
+
+<div class="profile-image">
+
+![Jane Doe](images/profile.jpg)
+
+</div>
+
+</div>
+
+---
+
+## About
+
+I am a PhD candidate in Economics at the University of Example. My research
+interests lie at the intersection of development economics, public economics,
+and political economy.
+
+My research examines how public policies and institutions affect economic
+opportunities, household welfare, and local economic development.
+
+I will be on the academic job market in **2026–27**.
+
+---
+
+## Job Market Paper
+
+### The Local Economic Effects of Public Infrastructure Investment
+
+**Abstract**
+
+This paper studies how large-scale public infrastructure investment affects
+local economic activity, employment, and household welfare. Using administrative
+data combined with geospatial measures of infrastructure exposure, I estimate
+the causal effects of infrastructure expansion on local economic outcomes.
+
+[Paper](papers/job_market_paper.pdf){.btn-paper}
+
+[Slides](papers/job_market_slides.pdf){.btn-paper}
+
+---
+
+## Research Fields
+
+**Primary:** Development Economics, Public Economics
+
+**Secondary:** Political Economy, Applied Econometrics
+
+---
+
+## Contact
+
+**Jane Doe**  
+Department of Economics  
+University of Example  
+123 University Avenue  
+Example City, USA
+
+[jane.doe@example.edu](mailto:jane.doe@example.edu)
+
+</div>
