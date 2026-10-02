@@ -8,7 +8,7 @@ title: "Research"
 
 My research examines how environmental risks and natural disasters affect housing markets, households, and local economic outcomes. I use spatial, administrative, environmental, economic, and other high-resolution data to study how environmental shocks and information about environmental risks are reflected in economic decisions and outcomes.
 
----
+------------------------------------------------------------------------
 
 ## Working Papers
 
@@ -18,21 +18,21 @@ My research examines how environmental risks and natural disasters affect housin
 
 This paper examines how information about environmental contamination risk affects housing markets, using the Red Hill fuel leak in Hawaiʻi as a setting to study the capitalization of environmental risk into residential property values.
 
-**[Job Market Paper]** · **[PDF]** · **[Slides]**
+**\[Job Market Paper\]** · **\[PDF\]** · **\[Slides\]**
 
 #### Volcanic Eruption and Real Estate Prices: Impact of the 2018 Kīlauea Eruption
 
 This paper examines the impact of the 2018 Kīlauea eruption on real estate prices.
 
-**[PDF]** · **[Slides]**
+**\[PDF\]** · **\[Slides\]**
 
 #### Natural Disasters and Financial Outcomes: Evidence from Multiple US Disasters
 
 This paper examines the relationship between natural disasters and financial outcomes using evidence from multiple disasters in the United States.
 
-**[PDF]**
+**\[PDF\]**
 
----
+------------------------------------------------------------------------
 
 ### Other Papers
 
@@ -40,57 +40,5 @@ This paper examines the relationship between natural disasters and financial out
 
 This paper examines the effects of natural disasters on mental health outcomes in the United States.
 
-**[PDF]**
+**\[PDF\]**
 
----
-
-## Non-Peer-Reviewed Publications
-
-- [*The Road to Recovery: Strengthening Health, Stability, and Resiliency Three Years After the Maui Wildfires*](https://uhero.hawaii.edu/wp-content/uploads/2026/07/UHERO_MauiWESCommunityReport_TheRoadToRecovery.pdf?v=1784825627), UHERO, July 2026.
-
-- *Policy Note on Tax Systems and Administration of Provincial and Local Governments in Nepal*, World Bank, 2022. *(Unpublished)*
-
-- *Policy Note on Budget Execution of Provincial and Local Governments*, World Bank, 2022. *(Unpublished)*
-
-- *Managing the Fiscal Risks Associated with Climate Change: Nepal*, World Bank, 2022. *(Unpublished)*
-
-- [*Fiscal Policy for Sustainable Development: Nepal Public Expenditure Review*](https://documents1.worldbank.org/curated/en/099835012032119520/pdf/P17208601e4d9102009d990f176775b9f18.pdf), World Bank, 2021.
-
-- [*Global War on Inflation Will Hinder Hawaii Growth*](https://uhero.hawaii.edu/wp-content/uploads/2022/12/22Q4_Forecast.pdf), UHERO Forecast Report, 2022 Q4.
-
-- [*Open Data for Transparency: Key to Economic Development*](https://thehimalayantimes.com/temp/open-data-for-transparency-key-to-economic-development), *The Himalayan Times*, June 29, 2018.
-
-- [*Banking the Unbanked: Ensuring Financial Inclusion*](https://thehimalayantimes.com/opinion/banking-the-unbanked-ensuring-financial-inclusion), *The Himalayan Times*, 2018.
-
-- [*Income Conundrum: Dissecting PCI Forecast*](https://thehimalayantimes.com/opinion/income-conundrum-dissecting-pci-forecast), *The Himalayan Times*, 2018.
-
-- *Financial Inclusion in Nepal*, *The Rising Nepal*, 2018.
-
----
-
-## Presentations
-
-- January 3–5, 2027 (upcoming), **American Economic Association**, USA
-- January 3–5, 2026, **American Economic Association**, USA
-- January 3–5, 2025, **American Economic Association**, USA
-- November 27, 2024, **Center for Resilient Neighborhoods (CERENE)**, Kapiʻolani Community College, Honolulu, Hawaiʻi
-- November 23–25, 2024, **Southern Economic Association**, USA
-- January 5–7, 2024, **American Economic Association**, USA *(accepted but not presented)*
-- November 18–20, 2023, **Southern Economic Association**, USA *(accepted but not presented)*
-- September 2024, September 2023, March 2023, **Applied Micro Workshop**, University of Hawaiʻi at Mānoa
-- June 11–14, 2023, **American Society of Health Economists (ASHEcon)**, USA
-- March 31–April 2, 2023, **Midwest Economics Association**, USA — Presenter and Discussant
-- January 4–6, 2019, **American Economic Association**, USA
-- November 18–20, 2018, **Southern Economic Association**, USA *(accepted but not presented)*
-- October 22, 2018, **NYU Shanghai Global Research Expo**
-- May 11, 2018, **NYU Shanghai Undergraduate Research Symposium** — Poster
-- March 23–25, 2018, **Midwest Economics Association**, USA *(accepted but not presented)*
-- October 26–28, 2017, **Himalayan Policy Research Conference**, USA
-
----
-
-## Workshops and Seminars Attended
-
-- Sustainability Workshop, Honolulu, Hawaiʻi, March 2025
-- Maui Wildfire Exposure Study and Registry Workshop, Maui, Hawaiʻi, December 2024
-- Berkeley/Sloan Summer School in Environmental and Energy Economics, UC Berkeley, California, August 2023

@@ -9,15 +9,12 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: about.qmd
-        text: About
       - href: teaching.qmd
         text: Teaching
-      - href: files/Sadichchha_Shrestha_CV.pdf
+      # - href: about.qmd
+      #   text: About
+      - href: "https://www.nepalstock.com/"
         text: CV
-    right:
-      - href: "https://scholar.google.com/"
-        text: Google Scholar
 
 format:
   html:

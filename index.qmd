@@ -1,101 +1,70 @@
 ---
-title: "Sadichchha Shrestha"
+title: ""
 ---
 
-<div class="hero-section">
+<div class="home-container">
 
-<div class="hero-text">
+<div class="home-sidebar">
 
+<img src="images/profile.jpg" class="profile-photo" alt="Sadichchha Shrestha">
 
-**PhD Candidate in Economics**  
-University of Hawaiʻi at Mānoa
+<h1>Sadichchha Shrestha</h1>
 
-**2026–27 Academic Job Market**
+<p>PhD Candidate in Economics<br>
+University of Hawaiʻi at Mānoa</p>
+<p>Honolulu, Hawaiʻi</p>
 
-<a href="files/CV.pdf" class="btn btn-primary">Curriculum Vitae</a>
-<a href="mailto:sadi931@hawaii.edu" class="btn btn-outline-primary">Email</a>
+<p><strong>2026–27 Academic Job Market</strong></p>
+
+<p class="social-links">
+
+<a href="files/CV.pdf" target="_blank">
+{{< fa file-pdf >}} CV
+</a>
+<br>
+
+<a href="https://scholar.google.com/" target="_blank">
+{{< fa brands google-scholar >}} Google Scholar
+</a>
+<br>
+
+<a href="https://github.com/sadichchhashrestha" target="_blank">
+{{< fa brands github >}} GitHub
+</a>
+<br>
+
+<a href="mailto:sadi931@hawaii.edu">
+{{< fa envelope >}} Email
+</a>
+
+</p>
 
 </div>
 
-<div class="hero-image">
-
-<img src="images/profile.jpg" alt="Sadichchha Shrestha">
-
-</div>
-
-</div>
-
----
-
-:::::: home-container
-::::: profile-section
-::: profile-text
+<div class="home-main">
 
 ## About Me
 
-I am a PhD candidate in Economics at the University of Hawaiʻi at Mānoa, expected to graduate in May 2027. My research lies at the intersection of **environmental, urban, and spatial economics**, with a focus on how environmental risks and shocks affect housing markets, households, and local economies.
+I am a PhD candidate in Economics at the University of Hawaiʻi at Mānoa, expected to graduate in May 2027. I am on the **2026–27 academic job market**.
 
-My research uses spatial, administrative, environmental, and economic data to study the effects of environmental risks and shocks on economic outcomes.
+My research lies at the intersection of **environmental, urban, and spatial economics**. I study how environmental risks and natural disasters affect housing markets, households, and local economic outcomes.
 
-## Job Market Paper
+My research uses spatial, administrative, environmental, economic, weather, and nighttime-lights data to examine the economic effects of environmental risks and shocks.
 
-### Water Contamination and Real Estate Prices: Evidence from Hawaii's Red Hill Fuel Leak
-
-My job market paper examines how information about environmental contamination risk is capitalized into housing prices. Using spatially detailed property transactions and environmental monitoring data, the paper studies how housing markets respond to changes in perceived environmental risk.
-
-**[Job Market Paper](papers/job_market_paper.pdf)**
-
----
+I also have experience in applied economic policy research through my work as a Short-Term Consultant with the **World Bank's Macroeconomics, Trade & Investment Global Practice** in the Nepal Country Office.
 
 ## Research Interests
 
-**Environmental Economics** · **Urban Economics** · **Spatial Economics** · **Applied Microeconomics**
+Environmental Economics · Urban Economics · Spatial Economics · Applied Microeconomics
 
----
+## Job Market Paper
 
-## Other Research
+**Water Contamination and Real Estate Prices: Evidence from Hawaii's Red Hill Fuel Leak**
 
-### Climate and Disaster Economics
+My job market paper examines how information about environmental contamination risk affects housing markets. Using spatially detailed property transactions and environmental monitoring data, I study how housing prices respond to changes in perceived environmental risk.
 
-My broader research examines the economic consequences of environmental shocks and natural disasters, combining economic, weather, nighttime-lights, geospatial, and administrative data.
+[Job Market Paper](papers/job_market_paper.pdf)
 
-### Spatial Development and Local Economic Outcomes
+</div>
 
-I am also interested in how spatial differences in environmental exposure, economic activity, and public policy shape local economic outcomes.
-
----
-
-## Professional Experience
-
-**World Bank — Short-Term Consultant**  
-*Macroeconomics, Trade & Investment Global Practice, Nepal Country Office*
-
-I have worked on macroeconomic and public-finance analysis, including research and analytical work for the **Nepal Development Update** and **Nepal Public Expenditure Review**.
-
-**University of Hawaiʻi at Mānoa — Graduate Research Assistant**
-
-I work on research examining the health, social, and economic impacts of the 2023 Maui wildfires using economic, weather, nighttime-lights, and geospatial data.
-
----
-
-## Education
-
-**University of Hawaiʻi at Mānoa**  
-PhD in Economics, expected May 2027
-
-**New York University**  
-BA in Economics
-
----
-
-## Contact
-
-**Sadichchha Shrestha**  
-Department of Economics\
-University of Hawaiʻi at Mānoa\
-Saunders Hall 542, 2424 Maile Way, Honolulu, HI 96822\
-Honolulu, HI 96822, USA
-
-**Email:** [sadi931@hawaii.edu](mailto:sadi931@hawaii.edu)
-
-[Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/sadichchhashrestha) · [LinkedIn](https://www.linkedin.com/)
+</div>
