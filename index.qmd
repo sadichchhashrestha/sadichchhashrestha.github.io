@@ -2,30 +2,24 @@
 title: "Sadichchha Shrestha"
 ---
 
-<div class="home-container">
+<div class="hero-section">
 
-<div class="profile-section">
+<div class="hero-text">
 
-<div class="profile-text">
-
-# Sadichchha Shrestha
 
 **PhD Candidate in Economics**  
 University of Hawaiʻi at Mānoa
 
-Development Economics · Urban Economics · Environment Economics
+**2026–27 Academic Job Market**
 
-[Curriculum Vitae](files/Sadichchha_Shrestha_CV.pdf){.btn-main}
-
-[Google Scholar](https://scholar.google.com/) ·
-[GitHub](https://github.com/janedoe) ·
-[LinkedIn](https://www.linkedin.com/)
+<a href="files/CV.pdf" class="btn btn-primary">Curriculum Vitae</a>
+<a href="mailto:sadi931@hawaii.edu" class="btn btn-outline-primary">Email</a>
 
 </div>
 
-<div class="profile-image">
+<div class="hero-image">
 
-![Jane Doe](images/profile.jpg)
+<img src="images/profile.jpg" alt="Sadichchha Shrestha">
 
 </div>
 
@@ -33,52 +27,75 @@ Development Economics · Urban Economics · Environment Economics
 
 ---
 
-## About
+:::::: home-container
+::::: profile-section
+::: profile-text
 
-I am a PhD candidate in Economics at the University of Example. My research
-interests lie at the intersection of development economics, public economics,
-and political economy.
+## About Me
 
-My research examines how public policies and institutions affect economic
-opportunities, household welfare, and local economic development.
+I am a PhD candidate in Economics at the University of Hawaiʻi at Mānoa, expected to graduate in May 2027. My research lies at the intersection of **environmental, urban, and spatial economics**, with a focus on how environmental risks and shocks affect housing markets, households, and local economies.
 
-I will be on the academic job market in **2026–27**.
-
----
+My research uses spatial, administrative, environmental, and economic data to study the effects of environmental risks and shocks on economic outcomes.
 
 ## Job Market Paper
 
-### The Local Economic Effects of Public Infrastructure Investment
+### Water Contamination and Real Estate Prices: Evidence from Hawaii's Red Hill Fuel Leak
 
-**Abstract**
+My job market paper examines how information about environmental contamination risk is capitalized into housing prices. Using spatially detailed property transactions and environmental monitoring data, the paper studies how housing markets respond to changes in perceived environmental risk.
 
-This paper studies how large-scale public infrastructure investment affects
-local economic activity, employment, and household welfare. Using administrative
-data combined with geospatial measures of infrastructure exposure, I estimate
-the causal effects of infrastructure expansion on local economic outcomes.
-
-[Paper](papers/job_market_paper.pdf){.btn-paper}
-
-[Slides](papers/job_market_slides.pdf){.btn-paper}
+**[Job Market Paper](papers/job_market_paper.pdf)**
 
 ---
 
-## Research Fields
+## Research Interests
 
-**Primary:** Development Economics, Public Economics
+**Environmental Economics** · **Urban Economics** · **Spatial Economics** · **Applied Microeconomics**
 
-**Secondary:** Political Economy, Applied Econometrics
+---
+
+## Other Research
+
+### Climate and Disaster Economics
+
+My broader research examines the economic consequences of environmental shocks and natural disasters, combining economic, weather, nighttime-lights, geospatial, and administrative data.
+
+### Spatial Development and Local Economic Outcomes
+
+I am also interested in how spatial differences in environmental exposure, economic activity, and public policy shape local economic outcomes.
+
+---
+
+## Professional Experience
+
+**World Bank — Short-Term Consultant**  
+*Macroeconomics, Trade & Investment Global Practice, Nepal Country Office*
+
+I have worked on macroeconomic and public-finance analysis, including research and analytical work for the **Nepal Development Update** and **Nepal Public Expenditure Review**.
+
+**University of Hawaiʻi at Mānoa — Graduate Research Assistant**
+
+I work on research examining the health, social, and economic impacts of the 2023 Maui wildfires using economic, weather, nighttime-lights, and geospatial data.
+
+---
+
+## Education
+
+**University of Hawaiʻi at Mānoa**  
+PhD in Economics, expected May 2027
+
+**New York University**  
+BA in Economics
 
 ---
 
 ## Contact
 
-**Jane Doe**  
-Department of Economics  
-University of Example  
-123 University Avenue  
-Example City, USA
+**Sadichchha Shrestha**  
+Department of Economics\
+University of Hawaiʻi at Mānoa\
+Saunders Hall 542, 2424 Maile Way, Honolulu, HI 96822\
+Honolulu, HI 96822, USA
 
-[jane.doe@example.edu](mailto:jane.doe@example.edu)
+**Email:** [sadi931@hawaii.edu](mailto:sadi931@hawaii.edu)
 
-</div>
+[Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/sadichchhashrestha) · [LinkedIn](https://www.linkedin.com/)

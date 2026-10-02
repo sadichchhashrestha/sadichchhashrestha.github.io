@@ -2,12 +2,22 @@ project:
   type: website
 
 website:
-  title: "academic-website"
+  title: "Sadichchha Shrestha"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: about.qmd
+        text: About
+      - href: teaching.qmd
+        text: Teaching
+      - href: files/Sadichchha_Shrestha_CV.pdf
+        text: CV
+    right:
+      - href: "https://scholar.google.com/"
+        text: Google Scholar
 
 format:
   html:
@@ -15,7 +25,6 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
-

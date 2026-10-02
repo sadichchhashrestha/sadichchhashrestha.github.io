@@ -1,9 +1,122 @@
+<!-- =========================
+     about.qmd
+     ========================= -->
+
 ---
 title: "About"
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 1
-```
+I am a PhD candidate in Economics at the **University of Hawaiʻi at Mānoa**, where I study environmental, urban, and spatial economics.
+
+My research focuses on how environmental risks and natural disasters affect housing markets, households, and local economic outcomes. I use spatial, administrative, environmental, economic, weather, and nighttime-lights data to examine these questions.
+
+I am currently on the **2026–27 academic job market**.
+
+Before and alongside my academic research, I have worked on economic policy and applied research. I served as a Short-Term Consultant with the **World Bank's Macroeconomics, Trade & Investment Global Practice** in the Nepal Country Office, where I contributed to analytical work on macroeconomics, public finance, and subnational fiscal policy.
+
+I also work as a Graduate Research Assistant at the University of Hawaiʻi at Mānoa on research examining the health, social, and economic impacts of the 2023 Maui wildfires.
+
+### Education
+
+**University of Hawaiʻi at Mānoa**  
+PhD in Economics, expected May 2027
+
+**New York University**  
+BA in Economics
+
+### Research Interests
+
+Environmental Economics · Urban Economics · Spatial Economics · Applied Microeconomics
+
+### Contact
+
+**Sadichchha Shrestha**  
+Department of Economics  
+University of Hawaiʻi at Mānoa  
+Honolulu, Hawaiʻi
+
+[Email](mailto:sadi931@hawaii.edu) · [Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/sadichchhashrestha)
+
+
+<!-- =========================
+     cv.qmd
+     ========================= -->
+
+---
+title: "Curriculum Vitae"
+---
+
+My full curriculum vitae is available below.
+
+**[Download CV (PDF)](files/CV.pdf)**
+
+## Education
+
+**University of Hawaiʻi at Mānoa**  
+PhD in Economics, expected May 2027
+
+**New York University**  
+BA in Economics
+
+## Working Papers
+
+### Dissertation Papers
+
+- **Water Contamination and Real Estate Prices: Evidence from Hawaii's Red Hill Fuel Leak**
+- **Volcanic Eruption and Real Estate Prices: Impact of the 2018 Kīlauea Eruption**
+- **Natural Disasters and Financial Outcomes: Evidence from Multiple US Disasters**
+
+### Other Papers
+
+- **The Impact of Natural Disasters on Mental Health: Evidence from the United States**
+
+## Teaching
+
+**Instructor, University of Hawaiʻi at Mānoa**
+
+- Principles of Microeconomics
+- Economics of Disasters and Resilience
+- The Economy of Hawaiʻi
+
+**Learning Assistant, New York University Shanghai**
+
+- Principles of Microeconomics
+- Calculus
+- Precalculus
+
+## Professional Experience
+
+**World Bank**  
+Short-Term Consultant, Macroeconomics, Trade & Investment Global Practice
+
+**University of Hawaiʻi at Mānoa**  
+Graduate Research Assistant
+
+## Selected Presentations
+
+- American Economic Association, 2027 *(upcoming)*
+- American Economic Association, 2026
+- American Economic Association, 2025
+- Southern Economic Association, 2024
+- American Society of Health Economists, 2023
+- Midwest Economics Association, 2023
+
+## Fellowships, Honors, and Awards
+
+- UH Mānoa Economics Department Burnham Campbell Scholarship
+- Faith C. Ai Scholarship
+- UH Mānoa College of Social Sciences Research Travel Award
+- UH Mānoa Economics Department Research Stipend
+- Graduate Student Organization Travel Fund
+- American Society of Health Economists Diversity Scholarship
+- UH Mānoa Economics Department Research Travel Award
+- Sloan/Berkeley EEE Summer School Travel Award
+- Sea Grant Fellowship
+- East-West Center Graduate Degree Fellowship
+- East-West Center Bryan Bushley Memorial Scholarship
+- NYU Shanghai Economics Department Conference Fund
+- NYU Shanghai Dean's Undergraduate Research Fund
+
+For the complete list of publications, presentations, fellowships, awards, and professional experience, please see the **[full CV](files/CV.pdf)**.
