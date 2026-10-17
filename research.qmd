@@ -4,41 +4,35 @@ title: "Research"
 
 ## Research Interests
 
-**Environmental Economics · Urban Economics · Spatial Economics · Applied Microeconomics**
+**Primary**: Economic Development, Real Estate Economics, Environmental Economics 
 
-My research examines how environmental risks and natural disasters affect housing markets, households, and local economic outcomes. I use spatial, administrative, environmental, economic, and other high-resolution data to study how environmental shocks and information about environmental risks are reflected in economic decisions and outcomes.
+**Secondary**: International Economics
 
 ------------------------------------------------------------------------
+
+## Job Market Paper
+
+#### [Water Contamination and Real Estate Prices: Evidence from Hawaii's Red Hill Fuel Leak](https://drive.google.com/file/d/1lAn-HS8tvr7QclA_C3nDiHJeXv94hSV2/view?usp=sharing)
+
+This paper examines the effects of the 2021 Red Hill fuel leak on residential property values on Oahu, Hawaii. Exploiting the leak as a quasi-experimental shock within a difference-in-differences framework, I compare changes in single-family home prices in potentially exposed areas with those in unexposed control areas before and after the event. The results indicate that properties within the potentially exposed area experienced an average price decline of approximately 16.8 percent following the leak, with the estimated discount largest in the second year after the event. These findings are robust to alternative spatial treatment definitions, a placebo test centered on the 2014 fuel release, and a specification that explicitly accounts for spatial spillovers. Finally, analysis of transaction probabilities yields a negative but statistically insignificant effect, suggesting that housing-market adjustment is more evident in property prices than in the likelihood of a sale.
+
 
 ## Working Papers
 
-### Dissertation Papers
+#### Volcanic Eruption and Real Estate Prices: Impact of the 2018 Kīlauea Eruption (with Timothy Halliday)
 
-#### Water Contamination and Real Estate Prices: Evidence from Hawaii's Red Hill Fuel Leak
+<!-- This paper examines the impact of the 2018 Kīlauea eruption on real estate prices. -->
 
-This paper examines how information about environmental contamination risk affects housing markets, using the Red Hill fuel leak in Hawaiʻi as a setting to study the capitalization of environmental risk into residential property values.
-
-**\[Job Market Paper\]** · **\[PDF\]** · **\[Slides\]**
-
-#### Volcanic Eruption and Real Estate Prices: Impact of the 2018 Kīlauea Eruption
-
-This paper examines the impact of the 2018 Kīlauea eruption on real estate prices.
-
-**\[PDF\]** · **\[Slides\]**
+<!-- **\[PDF\]** · **\[Slides\]** -->
 
 #### Natural Disasters and Financial Outcomes: Evidence from Multiple US Disasters
 
-This paper examines the relationship between natural disasters and financial outcomes using evidence from multiple disasters in the United States.
+<!-- This paper examines the relationship between natural disasters and financial outcomes using evidence from multiple disasters in the United States. -->
 
-**\[PDF\]**
-
-------------------------------------------------------------------------
-
-### Other Papers
+<!-- **\[PDF\]** -->
 
 #### The Impact of Natural Disasters on Mental Health: Evidence from the United States
 
-This paper examines the effects of natural disasters on mental health outcomes in the United States.
+<!-- This paper examines the effects of natural disasters on mental health outcomes in the United States. -->
 
-**\[PDF\]**
-
+<!-- **\[PDF\]** -->

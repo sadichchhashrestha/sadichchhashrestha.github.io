@@ -1,65 +1,65 @@
 ---
-title: "Curriculum Vitae"
+# title: "Curriculum Vitae"
 ---
 
-# Jane Doe
+<!-- # Jane Doe -->
 
-PhD Candidate in Economics  
-University of Example
+<!-- PhD Candidate in Economics\ -->
+<!-- University of Example -->
 
-[Download CV as PDF](files/Jane_Doe_CV.pdf){.btn-main}
+<!-- [Download CV as PDF]((https://drive.google.com/file/d/151IHpvVRGVqSFxInzZFZGz8aVBDDI6n0/view?usp=sharing)){.btn-main} -->
 
----
+<!-- ------------------------------------------------------------------------ -->
 
-## Education
+<!-- ## Education -->
 
-**PhD in Economics**, University of Example  
-2022–2027
+<!-- **PhD in Economics**, University of Example\ -->
+<!-- 2022–2027 -->
 
-**MA in Economics**, University of Example  
-2020–2022
+<!-- **MA in Economics**, University of Example\ -->
+<!-- 2020–2022 -->
 
-**BA in Economics**, Example University  
-2016–2020
+<!-- **BA in Economics**, Example University\ -->
+<!-- 2016–2020 -->
 
----
+<!-- ------------------------------------------------------------------------ -->
 
-## Research Fields
+<!-- ## Research Fields -->
 
-- Development Economics
-- Public Economics
-- Political Economy
-- Applied Econometrics
+<!-- - Development Economics -->
+<!-- - Public Economics -->
+<!-- - Political Economy -->
+<!-- - Applied Econometrics -->
 
----
+<!-- ------------------------------------------------------------------------ -->
 
-## Employment
+<!-- ## Employment -->
 
-**Research Assistant**  
-University of Example  
-2024–2026
+<!-- **Research Assistant**\ -->
+<!-- University of Example\ -->
+<!-- 2024–2026 -->
 
----
+<!-- ------------------------------------------------------------------------ -->
 
-## Publications
+<!-- ## Publications -->
 
-Doe, Jane. "Economic Development and Local Institutions."  
-*Journal of Development Economics*, 2025.
+<!-- Doe, Jane. "Economic Development and Local Institutions."\ -->
+<!-- *Journal of Development Economics*, 2025. -->
 
----
+<!-- ------------------------------------------------------------------------ -->
 
-## Working Papers
+<!-- ## Working Papers -->
 
-"Local Economic Effects of Public Infrastructure Investment."
+<!-- "Local Economic Effects of Public Infrastructure Investment." -->
 
-"Fiscal Decentralization and Local Public Goods."
+<!-- "Fiscal Decentralization and Local Public Goods." -->
 
-"Climate Shocks and Household Economic Resilience."
+<!-- "Climate Shocks and Household Economic Resilience." -->
 
----
+<!-- ------------------------------------------------------------------------ -->
 
-## Teaching
+<!-- ## Teaching -->
 
-Principles of Economics  
-Econometrics  
-Development Economics
+<!-- Principles of Economics\ -->
+<!-- Econometrics\ -->
+<!-- Development Economics -->
