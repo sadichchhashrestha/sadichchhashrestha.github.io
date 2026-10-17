@@ -4,7 +4,7 @@ title: ""
 
 ::::: home-container
 ::: home-sidebar
-<img src="images/profile.jpg" alt="Sadichchha Shrestha" class="profile-photo"/>
+<img src="images/profile.png" alt="Sadichchha Shrestha" class="profile-photo"/>
 
 <h1>Sadichchha Shrestha</h1>
 
@@ -40,7 +40,7 @@ I also have experience in applied economic policy research through my work as a 
 
 ## Research Interests
 
-**Primary**: Economic Development, Real Estate Economics, Environmental Economics 
+**Primary**: Economic Development, Real Estate Economics, Environmental Economics
 
 **Secondary**: International Economics
 
@@ -49,6 +49,5 @@ I also have experience in applied economic policy research through my work as a 
 [**Water Contamination and Real Estate Prices: Evidence from Hawaii's Red Hill Fuel Leak**](https://drive.google.com/file/d/1lAn-HS8tvr7QclA_C3nDiHJeXv94hSV2/view?usp=sharing)
 
 This paper examines the effects of the 2021 Red Hill fuel leak on residential property values on Oahu, Hawaii. Exploiting the leak as a quasi-experimental shock within a difference-in-differences framework, I compare changes in single-family home prices in potentially exposed areas with those in unexposed control areas before and after the event. The results indicate that properties within the potentially exposed area experienced an average price decline of approximately 16.8 percent following the leak, with the estimated discount largest in the second year after the event. These findings are robust to alternative spatial treatment definitions, a placebo test centered on the 2014 fuel release, and a specification that explicitly accounts for spatial spillovers. Finally, analysis of transaction probabilities yields a negative but statistically insignificant effect, suggesting that housing-market adjustment is more evident in property prices than in the likelihood of a sale.
-
 :::
 :::::
