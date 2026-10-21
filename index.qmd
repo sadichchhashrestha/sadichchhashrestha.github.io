@@ -16,7 +16,7 @@ title: ""
 
 <p class="social-links">
 
-<a href="https://drive.google.com/file/d/151IHpvVRGVqSFxInzZFZGz8aVBDDI6n0/view?usp=sharing" target="_blank"> {{< fa file-pdf >}} CV </a> <br>
+<a href="https://drive.google.com/file/d/1KOyoxj-FpzJ6tP-rIK-lwo2dBoiu7LdB/view?usp=sharing" target="_blank"> {{< fa file-pdf >}} CV </a> <br>
 
 <!-- <a href="https://scholar.google.com/" target="_blank"> {{< fa brands google-scholar >}} Google Scholar </a> <br> -->
 

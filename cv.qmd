@@ -5,6 +5,7 @@
 <!-- # Jane Doe -->
 
 <!-- PhD Candidate in Economics\ -->
+
 <!-- University of Example -->
 
 <!-- [Download CV as PDF]((https://drive.google.com/file/d/151IHpvVRGVqSFxInzZFZGz8aVBDDI6n0/view?usp=sharing)){.btn-main} -->
@@ -14,12 +15,15 @@
 <!-- ## Education -->
 
 <!-- **PhD in Economics**, University of Example\ -->
+
 <!-- 2022–2027 -->
 
 <!-- **MA in Economics**, University of Example\ -->
+
 <!-- 2020–2022 -->
 
 <!-- **BA in Economics**, Example University\ -->
+
 <!-- 2016–2020 -->
 
 <!-- ------------------------------------------------------------------------ -->
@@ -27,8 +31,11 @@
 <!-- ## Research Fields -->
 
 <!-- - Development Economics -->
+
 <!-- - Public Economics -->
+
 <!-- - Political Economy -->
+
 <!-- - Applied Econometrics -->
 
 <!-- ------------------------------------------------------------------------ -->
@@ -36,7 +43,9 @@
 <!-- ## Employment -->
 
 <!-- **Research Assistant**\ -->
+
 <!-- University of Example\ -->
+
 <!-- 2024–2026 -->
 
 <!-- ------------------------------------------------------------------------ -->
@@ -44,6 +53,7 @@
 <!-- ## Publications -->
 
 <!-- Doe, Jane. "Economic Development and Local Institutions."\ -->
+
 <!-- *Journal of Development Economics*, 2025. -->
 
 <!-- ------------------------------------------------------------------------ -->
@@ -61,5 +71,7 @@
 <!-- ## Teaching -->
 
 <!-- Principles of Economics\ -->
+
 <!-- Econometrics\ -->
+
 <!-- Development Economics -->
